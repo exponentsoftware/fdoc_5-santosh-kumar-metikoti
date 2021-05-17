@@ -1,4 +1,4 @@
-#[santosh kumar portfolio](https://www.santoshkumar.netlify.com)
+#[santosh kumar portfolio](https://santoshkumar.netlify.app/)
 ## DAY 5
 1. Use the countries API to fetch data about countries. (5 pt)
 
